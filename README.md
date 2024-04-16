@@ -1,2 +1,1 @@
-
-Con nuestro equipo de desarrollo buscamos dar solución al problema planteado por el cliente el cual desea tener la forma de entregar una factura a su cliente teniendo su login e inventario de productos, manejando como lenguaje JAVA entregando una aplicación de escritorio.
+parcial movil, profesor confundi carpeta pero de igual forma el back es el que se llama Demo, espero no tenga inconvenientes 
